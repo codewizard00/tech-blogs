@@ -27,6 +27,7 @@ Now i have question how it maintains order like concurrent requests comes reques
 And after know the output how it gives back to the accept queue or whereever i need to send the response i want to know that process in depth
 
 Each invocation of code has its own for res object, what takes the identity of which socket fd it belongs to.
+The res object is responsible to write the response to the correct socket fd in accept queue.
 
 
 What new i learn today 
