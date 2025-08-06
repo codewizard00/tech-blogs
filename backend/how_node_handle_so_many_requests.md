@@ -23,7 +23,7 @@ After receiving to accept queue a notification is send via epoll from os to our 
 
 At the end we know that as being single threaded uses task delegation to handle large number of request once.
 
-Now i have question how it maintains order like concurrent requests comes requests taken how did node js know whose output is this or not.
+Now i have question how it maintains order like concurrent requests taken how did node js know whose output is this or not.
 And after know the output how it gives back to the accept queue or whereever i need to send the response i want to know that process in depth
 
 Each invocation of code has its own for res object, what takes the identity of which socket fd it belongs to.
