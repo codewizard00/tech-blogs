@@ -32,5 +32,29 @@ Every repo must contain.
 4. How do i verify this project.
 5. what to do next. 
 
+Why One file instructions fails. 
+1. Context eaten.
+2. Priority Conflicts.
+3. Maintainence heavy.
+4. Lost in the middle.
+5. Contradiction Accumulation.
+
+Keep Context alive across sessions.
+Make 
+Progress files.
+Desicions logs.
+Verifcation points.
+Github checkpoints for reference.
+
+
+Compaction somehow maintains what for context but hard to maintain why.
+
+Initialize before every agent session.
+Implementation phases implies on code quatlity and quatitly
+where as initialization implies on code effectiveness and reliability.
+
+Why agent Overreach and underfinish
+Overread and underfinish are symbiotic. Finish one will finish other.
+
 What new learn Context Anxiety?
 When claude or anthropic model sees that context window is low its try to wrap up things without verification so that the use of context is low or never reached beyond that.
