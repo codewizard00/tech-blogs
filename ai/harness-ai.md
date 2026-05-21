@@ -14,7 +14,6 @@ Before going
 
 Design -> Code -> Review -> Test
 
-
 What harness actuall is.
 1. Everything inside engineering infrastructure out the model weights.
 Lets take an analog where ai models treated as engineer who joined the team and instantly called him/her to
