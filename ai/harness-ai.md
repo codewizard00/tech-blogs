@@ -55,5 +55,7 @@ where as initialization implies on code effectiveness and reliability.
 Why agent Overreach and underfinish
 Overread and underfinish are symbiotic. Finish one will finish other.
 
+Preventing Agents too declaring vitory too early.
+
 What new learn Context Anxiety?
 When claude or anthropic model sees that context window is low its try to wrap up things without verification so that the use of context is low or never reached beyond that.
